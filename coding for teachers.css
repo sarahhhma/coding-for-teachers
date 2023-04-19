@@ -34,8 +34,8 @@
     width: 100%;
     height: 1.1vh;
     border-radius: 5px;
-    padding: 0;
-    margin: 30px;
+    padding: 30px;
+    margin: auto;
   }
   .intro {
     display: flex;
