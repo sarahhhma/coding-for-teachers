@@ -6,7 +6,7 @@
   body {
       width: 100%;
       background: #8ce9e8;
-    border: 20px solid transparent;
+      overflow: hidden;
   }
   h1 {
     text-align: center;
