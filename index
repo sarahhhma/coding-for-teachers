@@ -1,0 +1,50 @@
+<!DOCTYPE=html>
+<html lang="en">
+  <head>
+	<link rel="stylesheet" href="coding for teachers.css">
+	<meta charset="utf-8">
+	<title>Coding for Teachers</title>
+  </head>	
+<body style="font-family: Helvetica, sans-serif; background: #8ce9e8; border: 20px solid transparent;">
+  <header class="header">
+<nav class="nav" style="width: 100vw; background: #006465; box-shadow: 0px 7px 5px #637074; top: 0%; left: 0%; position: absolute; height: 50px;">
+    <div class="nav-left" style="float: left;">
+        <ul style="list-style-type: none; margin: 0; padding-left: 50px; padding-top: 15px; overflow: hidden;">
+            <li style="float: left; color: white;"><a style="display: block; width: 160px; color: white; font-weight: bold;" href="Block Coding">Block Coding</a></li>
+            <li style="float: left; color: white;"><a style="display: block; width: 160px; color: white; font-weight: bold;" href="Syntax Coding">Syntax Coding</a></li>
+        </ul>
+    </div>
+</nav>
+  <h1 style="text-align:center; margin-top: 70px; margin-bottom: 20px">Coding for Teachers!</h1>
+  <div class="intro" style="display: flex; justify-content: space-evenly; align-content: space-around;">
+  <a href="https://teacher.skillstruck.com/">
+	<img style="display: flex; margin: 10px" src=https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="javascript" height="300" width="350">
+  </a>
+	<div class="container" style="width: 50%; max-width: 350px; display: flex; align-items: center; border: 2px solid #d0fafb; padding: 20px; border-radius: 8px; background-color: #d0fafb;">
+  <p style="display: flex; flex-wrap: wrap; font-size: 1.3em; font-weight: bold; padding: 20px;">I know it seems scary, but you can do it! Look how quickly your students pick up this skill. Pick one lesson at a time and work through it with your students or after school. In no time you will be comfortable teaching basic coding!</p>
+	</div>
+	</div>
+  <div class="divider" style="background-color: #006465; width: 100%; height: 1.1em; border-radius: 6px; margin: 30px;"></div>
+  <h1 name="Block Coding" style="text-align:center; margin-top: 20px; margin-bottom: 20px">Block Coding</h1>
+	<div class="block" style="display: flex; justify-content: space-evenly; flex-wrap: wrap-reverse; align-content: space-around;">
+  <div class="img">
+  <img style="display: flex; margin: 10px" src="https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="400" height="300">
+  </div>
+	  <div class="container" style="width: 50%; max-width: 350px; display: flex; align-items: center; border: 2px solid #d0fafb; padding: 20px; border-radius: 8px; background-color: #d0fafb;">
+  <p style="display: flex; flex-wrap: wrap; font-size: 1.3em; font-weight: bold; padding: 20px;">Block coding doesn't have to be for kids! This style of coding makes it easier to make connections between the functions of different bits of code and how they fit together. Use this as a good way to get yourself acquainted with programming. You will be ready for syntax coding before you know it!</p>
+	  </div>
+	</div>
+	  <iframe style="margin: auto; display: block; margin-top: 80px; margin-bottom: 100px"  width="560" height="315" src="https://www.youtube.com/embed/wDJua9hgyZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="divider" style="background-color: #006465; width: 100%; height: 1.1em; border-radius: 6px; margin: 30px;"></div>
+  <h1 name="Syntax Coding" style="text-align:center; margin-top: 20px; margin-bottom: 20px">Syntax Coding</h1>
+	<div class="syntax" style="display: flex; justify-content: space-evenly; flex-wrap: wrap-reverse; align-content: space-around; row-gap: 30px; column-gap: 30px;">
+  <div class="img">
+  <img style="display: flex; margin-left: 50px; margin-right: 50px" src="https://images.unsplash.com/photo-1536148935331-408321065b18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80" width="200" height="340">
+  </div>
+	<div class="container" style="width: 50%; max-width: 350px; display: flex; align-items: center; border: 2px solid #d0fafb; padding: 20px; border-radius: 8px; background-color: #d0fafb;">
+  <p style="display: flex; flex-wrap: wrap; font-size: 1.3em; font-weight: bold; padding: 20px;">If you are ready for a bit of a challenge, you can dive into syntax coding. What's important to note here is that the differences between different coding languages are very important to note. Skill Struck mostly sticks to HTML in elementary school, which has a very formulaic syntax, making it a good starting point for programming.</p>
+	</div>
+	</div>
+	<iframe style="margin: auto; display: block; margin-top: 80px; margin-bottom: 100px" width="560" height="315" class="video" src="https://www.youtube.com/embed/I-k-iTUMQAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+  </html>
